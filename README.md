@@ -1,2 +1,0 @@
-# CLIGraph
-FoondaMate Challenge
