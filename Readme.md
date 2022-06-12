@@ -1,5 +1,5 @@
 # FoondaMate Coding Challenge
-Name: Matthew Craig
+Name: Matthew Craig\
 Location: Cape Town, South Africa
 
 ## How it works
